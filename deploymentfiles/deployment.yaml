@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: devopshubg333/batch15d:9
+          image: udaykrishna240/docker_mc:xyz
           ports:
             - containerPort: 8080
       
